@@ -1,0 +1,40 @@
+Introduction
+
+HTML
+
+CSS
+
+JavaScript
+
+jQuery
+
+Bootstrap
+
+Major Project Killer Website
+
+Intro to Backend
+
+NodeJS
+
+Express with NodeJS
+
+API
+
+Git and Github
+
+EJS
+
+MongoDB
+
+Mongoose
+
+Putting it all together
+
+Creating our own REST API
+
+Authentication and Security
+
+React JS
+
+Major Project Let's Travel Website
+
